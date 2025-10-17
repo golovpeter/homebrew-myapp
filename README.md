@@ -36,7 +36,7 @@ brew install bannify
 bannify -c rainbow "HELLO"
 ```
 
-[View on GitHub](https://github.com/username/bannify)
+[View on GitHub](https://github.com/golovpeter/bannify)
 
 ## Updating
 
