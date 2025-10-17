@@ -1,8 +1,8 @@
 class Bannify < Formula
   desc "Generate colorful ASCII art banners in your terminal"
   homepage "https://github.com/golovpeter/bannify"
-  url "https://github.com/golovpeter/bannify/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "8eb14c6240b9aec47505a2f730dd7a8d3c0e94304dd2ae36883a4ea8bef24b76"
+  url "https://github.com/golovpeter/bannify/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "8ed8387d33c0b786fae4d101973dcd82d07cc6be752eaeb383562f27f5a86cfa"
   license "MIT"
   head "https://github.com/username/bannify.git", branch: "main"
 
